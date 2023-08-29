@@ -9,10 +9,10 @@
 9:HL["/_next/static/media/c04551857776278f-s.p.woff2",{"as":"font","type":"font/woff2"}]
 a:HL["/_next/static/media/d869208648ca5469-s.p.woff2",{"as":"font","type":"font/woff2"}]
 b:HL["/_next/static/css/8655c068fe95e315.css",{"as":"style"}]
-0:["3Sr2zKNxxUNzdEc6Tu9Ke",[[["",{"children":["projects",{"children":["isingmodel",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],"$Lc",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8655c068fe95e315.css","precedence":"next"}]],"$Ld"]]]]
+0:["W_mdXCefgkIJavQLrShcW",[[["",{"children":["projects",{"children":["isingmodel",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],"$Lc",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8655c068fe95e315.css","precedence":"next"}]],"$Ld"]]]]
 e:HL["/_next/static/css/d76a7673164391a8.css",{"as":"style"}]
-f:I{"id":3015,"chunks":["176:static/chunks/176-ecb197273d574ca6.js","185:static/chunks/app/layout-97697419a5290a23.js"],"name":"","async":false}
-10:I{"id":1125,"chunks":["176:static/chunks/176-ecb197273d574ca6.js","185:static/chunks/app/layout-97697419a5290a23.js"],"name":"","async":false}
+f:I{"id":3015,"chunks":["176:static/chunks/176-ecb197273d574ca6.js","185:static/chunks/app/layout-497c0185466033d3.js"],"name":"","async":false}
+10:I{"id":1125,"chunks":["176:static/chunks/176-ecb197273d574ca6.js","185:static/chunks/app/layout-497c0185466033d3.js"],"name":"","async":false}
 11:I{"id":7767,"chunks":["272:static/chunks/webpack-d8e6908e0081a28f.js","971:static/chunks/fd9d1056-59f432d2e5612c37.js","596:static/chunks/596-ad0c89c8f4328197.js"],"name":"default","async":false}
 12:I{"id":7920,"chunks":["272:static/chunks/webpack-d8e6908e0081a28f.js","971:static/chunks/fd9d1056-59f432d2e5612c37.js","596:static/chunks/596-ad0c89c8f4328197.js"],"name":"default","async":false}
 13:I{"id":9476,"chunks":["176:static/chunks/176-ecb197273d574ca6.js","691:static/chunks/691-ef0d2ffce9046185.js","919:static/chunks/app/projects/isingmodel/page-8b85973888ab7a2b.js"],"name":"ProjectPage","async":false}
